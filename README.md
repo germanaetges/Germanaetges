@@ -5,8 +5,6 @@
  
 :computer: I'm a Full Stack Developer! But my :purple_heart: belongs to Back end
 
-:house_with_garden: I’m from Brazil.
-
 :books: I’m currently learning some back end development skills.
 
 
