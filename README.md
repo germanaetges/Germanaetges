@@ -1,6 +1,6 @@
 ## Welcome to my personal coding space 
 
-## My name is Germana! But you can call me Gê!
+## Hello! You can call me Gê!
 
  
 :computer: I'm a Full Stack Developer! But my :purple_heart: belongs to Back end
